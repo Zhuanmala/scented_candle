@@ -102,6 +102,7 @@ Current execution status:
 - Waiting for supplier replies and compliance-document examples before any sample purchase decision.
 - Munich-first waitlist direction approved under temporary working name `Scene Candle Munich`.
 - Static waitlist page and Munich launch copy are prepared in the repository; public hosting still needs GitHub Pages/Netlify/Cloudflare activation before a live URL can be used in social bios.
+- TikTok first video was published from `@jianhou5`, but the caption needs correction. Instagram posting is blocked by human verification.
 
 Completion criteria:
 - Supplier messages sent.

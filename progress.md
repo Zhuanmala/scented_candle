@@ -45,9 +45,16 @@
 - Created Munich launch post copy, DM target strategy, and Munich-specific DM scripts.
 - Ran desktop and mobile headless Chrome QA on the static page; title, hero image, form action, required fields, navigation, and banned-claim scan passed.
 - Could not enable GitHub Pages from this environment because GitHub CLI is unavailable and the GitHub App tool surface does not expose Pages settings.
+- Checked Instagram/TikTok login state in the controlled Chrome session. Instagram is blocked by human verification/captcha. TikTok is logged in as `@jianhou5`.
+- Generated `site/assets/scene-candle-munich-tiktok.webm` using the project hero image and approved Munich tester CTA.
+- Uploaded and published the TikTok video at `https://www.tiktok.com/@jianhou5/video/7653538649350393104`; visibility later showed public/all users.
+- TikTok caption replacement did not persist before publish; public post currently shows `scene-candle-munich-tiktok`. Follow-up is to edit caption when TikTok Studio is reachable or publish a corrected second video.
+- TikTok Studio later returned `ERR_CONNECTION_CLOSED` on repeated attempts to reopen the content manager, so caption editing was not completed in this run.
 
 ## Next
 
 - Enable public hosting for the waitlist page or provide a static hosting account.
+- Solve Instagram human verification in the controlled Chrome window.
+- Edit the TikTok caption or publish a corrected second TikTok if editing is unavailable.
 - Add the live URL to Instagram/TikTok bio and launch the first Munich posts.
 - Track supplier replies and reject suppliers that cannot provide credible EU/Germany documentation examples.

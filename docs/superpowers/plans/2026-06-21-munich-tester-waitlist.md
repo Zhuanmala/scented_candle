@@ -178,7 +178,7 @@ Expected: commit succeeds and pushes to `main`.
 - Consumes: `site/index.html` preview and `ops/marketing/munich_launch_posts.md`.
 - Produces: Instagram/TikTok first post/story attempts or a clear blocker.
 
-- [ ] **Step 1: Check browser login state**
+- [x] **Step 1: Check browser login state**
 
 Use the existing controlled Chrome session to inspect whether Instagram and TikTok are logged in.
 
@@ -186,11 +186,11 @@ Use the existing controlled Chrome session to inspect whether Instagram and TikT
 
 Open `site/index.html` in browser and inspect desktop and mobile-like widths.
 
-- [ ] **Step 3: Publish only if controls are available**
+- [x] **Step 3: Publish only if controls are available**
 
 If logged in and no CAPTCHA/security block appears, publish the approved first post/story text. If a CAPTCHA, phone verification, or sensitive checkpoint appears, stop and ask the user to complete it.
 
-- [ ] **Step 4: Record outcome**
+- [x] **Step 4: Record outcome**
 
 Update `progress.md` with either published URLs/screenshots or exact blocker.
 
