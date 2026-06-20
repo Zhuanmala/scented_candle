@@ -55,10 +55,14 @@
 - First GitHub Pages workflow run failed at `actions/configure-pages` because the repository Pages site is not enabled/configured to use GitHub Actions as the source. Added one-time setup runbook at `docs/deployment/github-pages.md`.
 - User enabled GitHub Pages source `GitHub Actions`; re-ran the failed workflow successfully on attempt 2.
 - Verified live waitlist URL `https://zhuanmala.github.io/scented_candle/` returns HTTP 200 with title `Scene Candle Munich | Scent Test` and FormSubmit form action present.
+- Published corrected TikTok video with the Munich tester caption and waitlist URL: `https://www.tiktok.com/@jianhou5/video/7653545450997304593`.
+- Verified the corrected TikTok public page contains the intended caption and waitlist URL, and does not contain the old internal file-name caption.
+- Deleted the old incorrect TikTok post `https://www.tiktok.com/@jianhou5/video/7653538649350393104`; TikTok Studio list now shows only the corrected public post.
+- Updated TikTok profile bio to `Munich scent test. Link in latest post. Comment TEST.` after TikTok did not persist a direct URL bio.
 
 ## Next
 
 - Wait for Instagram review outcome before attempting Instagram posting again.
-- Edit the TikTok caption or publish a corrected second TikTok if editing is unavailable.
-- Add the live URL to Instagram/TikTok bio and launch the first Munich posts.
+- Monitor TikTok views, comments, and waitlist signups from the corrected post.
+- Add the live URL to Instagram bio and launch the first Instagram post when review clears.
 - Track supplier replies and reject suppliers that cannot provide credible EU/Germany documentation examples.

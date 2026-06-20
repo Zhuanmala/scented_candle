@@ -102,7 +102,7 @@ Current execution status:
 - Waiting for supplier replies and compliance-document examples before any sample purchase decision.
 - Munich-first waitlist direction approved under temporary working name `Scene Candle Munich`.
 - Static waitlist page and Munich launch copy are live at `https://zhuanmala.github.io/scented_candle/`; GitHub Pages Actions deployment succeeded after user enabled GitHub Actions as the Pages source.
-- TikTok first video was published from `@jianhou5`, but the caption needs correction. Instagram manual verification appeal has been submitted and is pending review.
+- TikTok corrected public post is live at `https://www.tiktok.com/@jianhou5/video/7653545450997304593`; the old incorrect-caption post was deleted, and TikTok bio now points viewers to the latest post. Instagram manual verification appeal has been submitted and is pending review.
 
 Completion criteria:
 - Supplier messages sent.
