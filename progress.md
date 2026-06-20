@@ -23,6 +23,8 @@
   - #4 Phase 5D: Run sample and blind scent tests
   - #5 Phase 6: Make Go / Pivot / Stop decision
 - Reviewed `coreyhaines31/marketingskills` and recorded applicability in `findings.md`.
+- User provided Alibaba account access details in chat. Credentials were deliberately not written to repository files, GitHub issues, logs, or planning docs.
+- Added `.gitignore` entries to reduce risk of accidentally committing local secrets, cookies, browser profiles, or auth state.
 
 ## Next
 

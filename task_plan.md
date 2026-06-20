@@ -90,7 +90,7 @@ GitHub Issues:
 - #4 Sample and blind scent tests
 
 Needs user resources:
-- Alibaba.com or 1688 account access, or user-approved manual sending workflow.
+- Alibaba.com account access is available in chat, but credentials must not be persisted to files or GitHub.
 - Instagram/TikTok accounts for posting, or approval for prepared content.
 - Payment method and explicit budget authorization before any paid action.
 - German local network or target city for tester recruitment.

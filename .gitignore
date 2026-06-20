@@ -1,0 +1,16 @@
+# Local secrets and account material
+.env
+.env.*
+*.secret
+*.secrets
+secrets/
+credentials/
+cookies/
+browser-profile/
+playwright/.auth/
+
+# Local generated artifacts
+node_modules/
+.cache/
+tmp/
+*.log
