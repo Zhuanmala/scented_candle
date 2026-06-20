@@ -83,6 +83,12 @@ Completion criteria:
 
 Status: in_progress
 
+GitHub Issues:
+- #1 Resource and authorization gates
+- #2 Supplier outreach
+- #3 Waitlist and tester recruitment
+- #4 Sample and blind scent tests
+
 Needs user resources:
 - Alibaba.com or 1688 account access, or user-approved manual sending workflow.
 - Instagram/TikTok accounts for posting, or approval for prepared content.
@@ -99,6 +105,9 @@ Completion criteria:
 ## Phase 6: Go/Pivot/Stop Decision
 
 Status: pending
+
+GitHub Issue:
+- #5 Go / Pivot / Stop decision
 
 Completion criteria:
 - At least 30 valid test responses, ideally 50.

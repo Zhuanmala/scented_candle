@@ -15,6 +15,13 @@
 - Updated task plan: Phases 1-4 complete; Phase 5 in progress, blocked on user-provided accounts/resources and explicit authorization for external actions.
 - Connected local project to GitHub repository `Zhuanmala/scented_candle`.
 - Updated `README.md` as the repository project-management entry point.
+- Pushed initial project-management system to GitHub commit `1e86516`.
+- Created GitHub Issues:
+  - #1 Phase 5A: Provide resources and authorization gates
+  - #2 Phase 5B: Contact 10-15 Alibaba suppliers
+  - #3 Phase 5C: Launch waitlist and tester recruitment
+  - #4 Phase 5D: Run sample and blind scent tests
+  - #5 Phase 6: Make Go / Pivot / Stop decision
 
 ## Next
 
