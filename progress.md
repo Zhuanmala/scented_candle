@@ -26,10 +26,20 @@
 - User provided Alibaba account access details in chat. Credentials were deliberately not written to repository files, GitHub issues, logs, or planning docs.
 - Added `.gitignore` entries to reduce risk of accidentally committing local secrets, cookies, browser profiles, or auth state.
 - Added first public Alibaba supplier leads to `ops/supplier/supplier_tracker.csv`. These are unverified leads only; next step is logged-in supplier contact and document screening.
+- Sent Alibaba chat outreach to Changchun Ai Kun Medical Equipment Co. Ltd. for sample, MOQ, Trade Assurance, and EU/Germany documentation screening.
+- Sent Alibaba chat outreach to Hubei Joylife Home Furnishing Co. Ltd. for sample, MOQ, Trade Assurance, and EU/Germany documentation screening.
+- Hubei Joylife replied that they will check with a manager and follow up; no compliance documents received yet.
+- Sent Alibaba chat outreach to Baoding Be-Ladies Home Products Co. Ltd.; page claims Germany as a main market, so this lead is higher priority if they can produce documents.
+- Encountered one browser automation issue where Chinese text matching clicked the wrong right-side action. No order/payment was submitted; switched to coordinate/structure-based contact selection.
+- Sent Alibaba chat outreach to Suzhou M&scent Arts&crafts Co. Ltd. for sample, MOQ, Trade Assurance, and EU/Germany documentation screening.
+- Verified AIKUN Custom Portable Luxury Oriental Soy Wax is another Changchun Ai Kun product page; did not send a duplicate message to the same supplier.
+- Used Alibaba search for additional `private label scented candle SDS IFRA` leads.
+- Sent Alibaba chat outreach to Guangxi Wanjing Xiangyu Biotechnology Co. Ltd., Shanghai Wellness Crafts Co. Ltd., and Hebei Aoyin Trading Co. Ltd.
+- Sent Alibaba chat outreach to Suzhou Enjoy Home Products Co. Ltd., Shijiazhuang Gaocheng Fengyuan Candle Co. Ltd., and Sichuan Zhongyouhui Supply Chain Management Co. Ltd.
+- Reached 10 independent Alibaba supplier contacts, plus 1 duplicate product lead retained for Changchun Ai Kun.
+- Corrected supplier tracker CSV column alignment after adding the final three supplier rows and verified key columns with `Import-Csv`.
 
 ## Next
 
-- Build supplier outreach and tracking assets.
-- Build blind testing assets.
-- Build marketing/preorder validation assets.
-- Write resource request list for the user.
+- Continue Alibaba supplier outreach for remaining public leads.
+- Track replies and reject suppliers that cannot provide credible EU/Germany documentation examples.
