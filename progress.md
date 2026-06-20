@@ -25,6 +25,7 @@
 - Reviewed `coreyhaines31/marketingskills` and recorded applicability in `findings.md`.
 - User provided Alibaba account access details in chat. Credentials were deliberately not written to repository files, GitHub issues, logs, or planning docs.
 - Added `.gitignore` entries to reduce risk of accidentally committing local secrets, cookies, browser profiles, or auth state.
+- Added first public Alibaba supplier leads to `ops/supplier/supplier_tracker.csv`. These are unverified leads only; next step is logged-in supplier contact and document screening.
 
 ## Next
 
