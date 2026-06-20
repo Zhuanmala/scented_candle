@@ -1,0 +1,5 @@
+scenario,units,unit_factory_cost_eur,shipping_per_unit_eur,packaging_per_unit_eur,compliance_allocation_per_unit_eur,total_landed_cost_eur,retail_price_eur,gross_margin_eur,gross_margin_percent,notes
+conservative_50_units,50,8,4,2,3,17,29,12,41.4,Too tight unless strong demand
+target_100_units,100,6,3,1.5,2,12.5,34,21.5,63.2,Potentially viable for DTC test
+target_150_units,150,5.5,2.5,1.5,1.5,11,34,23,67.6,Better if supplier quality holds
+premium_150_units,150,7,3,2,2,14,39,25,64.1,Works only if packaging and scent justify premium

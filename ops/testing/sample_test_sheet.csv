@@ -1,0 +1,4 @@
+sample_id,supplier,fragrance_direction,wax_type,wax_weight_g,container,wick,documents_received,visual_score_1_5,cold_scent_score_1_5,premium_scent_score_1_5,cheap_synthetic_score_1_5,giftable_yes_no,perceived_price_eur,first_15_min_notes,one_hour_notes,two_three_hour_notes,black_smoke,tunneling,container_overheat,mushrooming,extinguish_smell,burn_safety_score_1_5,final_decision,notes
+A,,Winter/Gift,,,,,,,,,,,,,,,,,,,,,,,
+B,,Clean Home,,,,,,,,,,,,,,,,,,,,,,,
+C,,Theatre/Signature,,,,,,,,,,,,,,,,,,,,,,,

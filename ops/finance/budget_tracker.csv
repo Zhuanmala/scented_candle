@@ -1,0 +1,9 @@
+category,budget_eur,actual_eur,remaining_eur,status,notes
+supplier_samples_and_shipping,220,0,220,not_started,Buy existing samples only after explicit approval
+temporary_packaging_and_labels,70,0,70,not_started,Local prototype packaging
+blind_test_incentives,80,0,80,not_started,Coffee vouchers or small thank-you gifts
+photo_and_landing_page,40,0,40,not_started,Use free tools where possible
+small_offline_test,50,0,50,not_started,Materials or small venue support only
+compliance_document_screening,40,0,40,not_started,Printing/translating/organizing documents
+contingency,40,0,40,not_started,Do not use to add SKUs
+total,500,0,500,not_started,
