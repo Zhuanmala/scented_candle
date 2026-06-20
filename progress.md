@@ -22,6 +22,7 @@
   - #3 Phase 5C: Launch waitlist and tester recruitment
   - #4 Phase 5D: Run sample and blind scent tests
   - #5 Phase 6: Make Go / Pivot / Stop decision
+- Reviewed `coreyhaines31/marketingskills` and recorded applicability in `findings.md`.
 
 ## Next
 

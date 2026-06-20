@@ -60,3 +60,12 @@ These are not approved suppliers. They are starting points for platform search a
 - Should the working brand name be created by Codex, or does the user already have preferences?
 - Can the user recruit German local testers offline?
 - Will the user authorize actual outbound supplier messages after reviewing templates?
+
+## Marketing Skills Repository Review
+
+- `[KNOWN]` Reviewed public GitHub repository `coreyhaines31/marketingskills`. It is public, MIT-licensed, and describes itself as marketing skills for AI agents across conversion optimization, copywriting, SEO, analytics, social, launch, pricing, and growth tasks.
+- `[KNOWN]` The repo uses `product-marketing` as a foundational context skill. Other skills check `.agents/product-marketing.md` first for product, audience, positioning, proof points, objections, and goals.
+- `[INFERRED, HIGH]` The repo is useful for this project after supplier/compliance boundaries are clear, especially for waitlist, social content, tester recruitment, landing-page copy, customer research, and willingness-to-pay testing.
+- `[INFERRED, HIGH]` The repo does not replace our existing supplier, compliance, sample testing, or Go/Pivot/Stop process. Those remain project-specific and high-risk.
+- `[INFERRED, MED]` Recommended subset if installed: `product-marketing`, `customer-research`, `social`, `copywriting`, `cro`, `launch`, `pricing`, `offers`, and later `analytics` / `ab-testing`.
+- `[INFERRED, HIGH]` Some skills are SaaS-oriented and should be adapted carefully for a physical consumer product. In particular, do not import aggressive offer/guarantee/scarcity tactics into a regulated candle product without checking trust, refund, and compliance implications.
