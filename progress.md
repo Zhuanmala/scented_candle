@@ -52,10 +52,11 @@
 - TikTok Studio later returned `ERR_CONNECTION_CLOSED` on repeated attempts to reopen the content manager, so caption editing was not completed in this run.
 - User completed Instagram manual verification and submitted an appeal; Instagram account is now pending review and unavailable for posting until review finishes.
 - Added GitHub Actions workflow `.github/workflows/pages.yml` to deploy the static `site/` waitlist page to GitHub Pages now that the repository is public.
+- First GitHub Pages workflow run failed at `actions/configure-pages` because the repository Pages site is not enabled/configured to use GitHub Actions as the source. Added one-time setup runbook at `docs/deployment/github-pages.md`.
 
 ## Next
 
-- Verify the GitHub Pages workflow run and collect the live waitlist URL if deployment succeeds.
+- Enable GitHub Pages source `GitHub Actions` in repository Settings, then re-run the `Deploy waitlist site` workflow and collect the live URL.
 - Wait for Instagram review outcome before attempting Instagram posting again.
 - Edit the TikTok caption or publish a corrected second TikTok if editing is unavailable.
 - Add the live URL to Instagram/TikTok bio and launch the first Munich posts.

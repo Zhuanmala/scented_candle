@@ -25,6 +25,7 @@ Munich scent test for a developing candle concept. No launch yet, no sales yet, 
 
 ### Waitlist URL
 
-- Status: GitHub Pages Actions deployment workflow added.
+- Status: GitHub Pages Actions deployment workflow added; first run failed before deployment.
 - Workflow: `.github/workflows/pages.yml`.
-- Next step: verify the workflow run and capture the live URL if deployment succeeds.
+- Failure reason: repository Pages site is not enabled/configured to use GitHub Actions as the source.
+- Next step: repository admin opens `https://github.com/Zhuanmala/scented_candle/settings/pages`, sets **Source** to **GitHub Actions**, then re-runs the `Deploy waitlist site` workflow.
