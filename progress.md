@@ -50,11 +50,13 @@
 - Uploaded and published the TikTok video at `https://www.tiktok.com/@jianhou5/video/7653538649350393104`; visibility later showed public/all users.
 - TikTok caption replacement did not persist before publish; public post currently shows `scene-candle-munich-tiktok`. Follow-up is to edit caption when TikTok Studio is reachable or publish a corrected second video.
 - TikTok Studio later returned `ERR_CONNECTION_CLOSED` on repeated attempts to reopen the content manager, so caption editing was not completed in this run.
+- User completed Instagram manual verification and submitted an appeal; Instagram account is now pending review and unavailable for posting until review finishes.
+- Added GitHub Actions workflow `.github/workflows/pages.yml` to deploy the static `site/` waitlist page to GitHub Pages now that the repository is public.
 
 ## Next
 
-- Enable public hosting for the waitlist page or provide a static hosting account.
-- Solve Instagram human verification in the controlled Chrome window.
+- Verify the GitHub Pages workflow run and collect the live waitlist URL if deployment succeeds.
+- Wait for Instagram review outcome before attempting Instagram posting again.
 - Edit the TikTok caption or publish a corrected second TikTok if editing is unavailable.
 - Add the live URL to Instagram/TikTok bio and launch the first Munich posts.
 - Track supplier replies and reject suppliers that cannot provide credible EU/Germany documentation examples.

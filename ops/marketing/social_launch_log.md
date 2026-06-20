@@ -19,15 +19,12 @@ Munich scent test for a developing candle concept. No launch yet, no sales yet, 
 
 ### Instagram
 
-- Status: blocked before posting.
-- Observed blocker: Instagram redirected to a human verification / image captcha page.
-- Required action: user must solve the Instagram verification in the controlled Chrome window before posting can continue.
+- Status: appeal submitted, pending Instagram review.
+- Observed blocker: Instagram redirected to a human verification / image captcha page, then showed that an appeal was submitted on 2026-06-20 and review is pending.
+- Required action: wait for Instagram review outcome before attempting posting again.
 
 ### Waitlist URL
 
-- Status: not public yet.
-- Blocker: GitHub CLI is unavailable locally and the available GitHub App tools do not expose GitHub Pages settings.
-- Next hosting options:
-  - enable GitHub Pages for `/site`;
-  - provide Netlify or Cloudflare Pages access;
-  - manually drag-and-drop the `site/` folder to Netlify Drop.
+- Status: GitHub Pages Actions deployment workflow added.
+- Workflow: `.github/workflows/pages.yml`.
+- Next step: verify the workflow run and capture the live URL if deployment succeeds.
