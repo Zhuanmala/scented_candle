@@ -101,7 +101,7 @@ Current execution status:
 - 1 duplicate Changchun Ai Kun product lead retained without duplicate outreach.
 - Waiting for supplier replies and compliance-document examples before any sample purchase decision.
 - Munich-first waitlist direction approved under temporary working name `Scene Candle Munich`.
-- Static waitlist page and Munich launch copy are prepared in the repository; GitHub Pages Actions workflow exists, but the first run failed because GitHub Pages has not yet been enabled/configured to use GitHub Actions as the source.
+- Static waitlist page and Munich launch copy are live at `https://zhuanmala.github.io/scented_candle/`; GitHub Pages Actions deployment succeeded after user enabled GitHub Actions as the Pages source.
 - TikTok first video was published from `@jianhou5`, but the caption needs correction. Instagram manual verification appeal has been submitted and is pending review.
 
 Completion criteria:
