@@ -100,6 +100,8 @@ Current execution status:
 - 10 independent Alibaba supplier contacts sent on 2026-06-21.
 - 1 duplicate Changchun Ai Kun product lead retained without duplicate outreach.
 - Waiting for supplier replies and compliance-document examples before any sample purchase decision.
+- Munich-first waitlist direction approved under temporary working name `Scene Candle Munich`.
+- Static waitlist page and Munich launch copy are prepared in the repository; public hosting still needs GitHub Pages/Netlify/Cloudflare activation before a live URL can be used in social bios.
 
 Completion criteria:
 - Supplier messages sent.

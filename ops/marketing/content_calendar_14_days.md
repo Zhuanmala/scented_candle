@@ -12,19 +12,19 @@ Purpose: build audience and recruit testers without pretending the product is al
 
 ## Day 1
 
-Post: Founder note.  
-Theme: Why scent as space language.  
-CTA: Join blind scent test.
+Post: Munich founder/tester note.  
+Theme: Scene Candle Munich is in development and looking for first local testers.  
+CTA: Join the Munich scent test / DM TEST.
 
 ## Day 2
 
-Post: Moodboard: warm neutral materials, paper, textile, candlelight.  
-CTA: Which material feels most like home?
+Post: Munich home-atmosphere moodboard: warm neutral materials, paper, textile, candlelight.  
+CTA: Which material feels most like a Munich home?
 
 ## Day 3
 
-Post: Scent direction 1, Winter House.  
-CTA: Would you prefer fir/cedar or orange/spice?
+Post: Scent direction 1, Winter House, framed as the safest winter/gift tester candidate.  
+CTA: Would you prefer fir/cedar or orange/spice in a Munich winter candle?
 
 ## Day 4
 

@@ -54,6 +54,17 @@ These are not approved suppliers. They are starting points for platform search a
 - `[COMMON]` For early consumer-product validation, action signals matter more than compliments.
 - `[INFERRED, HIGH]` For this project, action signals should include email signup, preorder request, refundable deposit, tester attendance, referral, or purchase.
 
+## Munich Tester Recruitment Findings
+
+- `[KNOWN]` User confirmed Munich as the first test city and authorized use of logged-in Instagram/TikTok accounts plus a temporary working brand name for the waitlist page.
+- `[KNOWN]` The City of Munich 2025 facts PDF reports 863,334 private households and 54.3% single-person households as of 2024, which supports a home-atmosphere positioning rather than only family/gift use cases.
+- `[KNOWN]` Official Munich tourism/city sources position Munich as strong in arts, culture, theatres, museums, and design, which fits the current theatre/interior-inspired product direction.
+- `[KNOWN]` Munich has visible English-speaking expat/international communities and networking groups, including Munich Expats, InterNations/Meetup-style groups, and the City of Munich's expat community resources.
+- `[KNOWN]` Munich Creative Business Week publicly describes itself as a design platform with hundreds of events/partners/speakers in 2026, supporting a design-community outreach angle.
+- `[INFERRED, HIGH]` The first tester audience should not be "all Munich candle buyers." It should start with three overlapping niches: international young professionals/expats, design/interior/home-decor followers, and theatre/culture/event-goers.
+- `[INFERRED, MED]` English-first copy may work for expat/international testers, but German copy is still needed for trust and local legitimacy.
+- `[INFERRED, HIGH]` Best first conversion goal: tester/waitlist signup and DM keyword response, not immediate purchase or deposit. Product samples and EU documentation are not yet verified.
+
 ## Open Questions
 
 - Target city/country for first test: Germany broadly, or a specific city such as Berlin, Munich, Hamburg, Cologne, Düsseldorf?

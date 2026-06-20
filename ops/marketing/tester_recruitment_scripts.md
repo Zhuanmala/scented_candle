@@ -52,3 +52,30 @@ Could you send:
 ## Consent Note
 
 Your feedback will only be used to evaluate this product concept. I will not publish your name or personal details without permission.
+
+## Munich-Specific Instagram DM - English
+
+Hi [Name], I am developing a small scented candle concept in Munich under the working name Scene Candle Munich.
+
+It is not launched yet. I am looking for people in or near Munich to join a blind scent test and give honest feedback on scent, packaging, and EUR 29-39 price perception.
+
+Would you be open to joining the tester waitlist? It should take around 15 minutes once samples are ready.
+
+## Munich-Specific Instagram DM - German
+
+Hi [Name], ich entwickle in München gerade ein kleines Duftkerzen-Konzept unter dem Arbeitsnamen Scene Candle Munich.
+
+Noch kein Launch. Ich suche Personen in oder nahe München für einen Blindtest mit ehrlichem Feedback zu Duft, Verpackung und Preisgefühl bei ca. 29-39 EUR.
+
+Hättest du Lust, dich auf die Tester-Liste zu setzen? Der Test dauert später ungefähr 15 Minuten, sobald die Muster da sind.
+
+## Munich Story CTA
+
+Munich / München:
+
+I am looking for first testers for a developing scented candle concept.
+
+No sales yet. No launch yet.
+Just 3 scent directions and honest feedback.
+
+DM TEST or join the waitlist.

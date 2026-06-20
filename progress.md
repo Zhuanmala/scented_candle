@@ -38,8 +38,16 @@
 - Sent Alibaba chat outreach to Suzhou Enjoy Home Products Co. Ltd., Shijiazhuang Gaocheng Fengyuan Candle Co. Ltd., and Sichuan Zhongyouhui Supply Chain Management Co. Ltd.
 - Reached 10 independent Alibaba supplier contacts, plus 1 duplicate product lead retained for Changchun Ai Kun.
 - Corrected supplier tracker CSV column alignment after adding the final three supplier rows and verified key columns with `Import-Csv`.
+- User approved Munich Tester Sprint /方案 A with temporary working name and waitlist page authorization.
+- Created design spec and implementation plan for `Scene Candle Munich`.
+- Generated a neutral concept hero image and copied it into `site/assets/hero-candle-concept.png`.
+- Built static waitlist page under `site/` with FormSubmit email forwarding to the project owner's iCloud email.
+- Created Munich launch post copy, DM target strategy, and Munich-specific DM scripts.
+- Ran desktop and mobile headless Chrome QA on the static page; title, hero image, form action, required fields, navigation, and banned-claim scan passed.
+- Could not enable GitHub Pages from this environment because GitHub CLI is unavailable and the GitHub App tool surface does not expose Pages settings.
 
 ## Next
 
-- Continue Alibaba supplier outreach for remaining public leads.
-- Track replies and reject suppliers that cannot provide credible EU/Germany documentation examples.
+- Enable public hosting for the waitlist page or provide a static hosting account.
+- Add the live URL to Instagram/TikTok bio and launch the first Munich posts.
+- Track supplier replies and reject suppliers that cannot provide credible EU/Germany documentation examples.
