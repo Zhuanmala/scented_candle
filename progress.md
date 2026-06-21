@@ -64,9 +64,17 @@
 - Created Instagram-ready JPEG asset `site/assets/hero-candle-concept-instagram.jpg` from the existing hero concept image.
 - Published and verified the first Instagram tester-recruitment post: `https://www.instagram.com/p/DZ1IzfSkmsh/`.
 - Verified the Instagram post contains the Munich blind scent-test caption, `No launch yet. No sales yet.`, `Comment TEST`, and `waitlist`, with no banned claim terms from the project safety scan.
+- Created `ops/marketing/validation_metrics.csv` and recorded the first public baseline: Instagram 0 likes / 0 comments / 0 followers; TikTok visible public action counts at 0; waitlist signups cannot be observed from GitHub Pages and must be counted from FormSubmit/email receipts.
+- Created `ops/marketing/outreach_targets.csv` with the first Munich organic outreach queue across expat/community, design, student entrepreneur, and interior/design segments.
+- Created `ops/marketing/outreach_log.csv` and recorded low-risk Instagram warm-up actions.
+- Followed `@munich_expats` and `@friendingaround` from the Instagram account; no DMs or comments were sent in this step. Instagram profile verification showed `2 following`.
+- Reviewed `@munich_creative_business_week`; no follow action completed, so it remains a design-audience research and later engagement target.
+- Checked Alibaba message / TM manager entry points. Current visible dashboard shows 0 unread business opportunities and no visible supplier reply data, but the page appears to be a seller/business dashboard, so supplier reply status remains uncertain rather than confirmed no-reply.
+- Corrected mojibake in German marketing/recruitment copy files: `ops/marketing/munich_launch_posts.md` and `ops/marketing/tester_recruitment_scripts.md`.
 
 ## Next
 
 - Monitor TikTok and Instagram views, comments, and waitlist signups from the corrected public posts.
 - If Instagram mobile access is available, add the live URL to the Website field because Instagram Web only allowed bio-text URL editing.
+- Do not send bulk DMs from the new Instagram account yet. First monitor whether the two followed Munich community accounts create relevant feed opportunities; then send at most 3-5 highly relevant test-recruitment interactions on the first day.
 - Track supplier replies and reject suppliers that cannot provide credible EU/Germany documentation examples.

@@ -1,0 +1,5 @@
+date,time_local,platform,handle_or_url,action,message_or_comment,status,result,notes
+2026-06-21,10:35,Instagram,,baseline,no outbound action yet,not_started,,Created target queue; first phase should start with profile review and light engagement to reduce spam risk from a new account.
+2026-06-21,10:40,Instagram,@munich_expats,follow,,completed,Following,Low-risk warm-up action only; no DM or comment sent.
+2026-06-21,10:41,Instagram,@friendingaround,follow,,completed,Following,Low-risk warm-up action only; no DM or comment sent.
+2026-06-21,10:42,Instagram,@munich_creative_business_week,review,,completed,No follow button action completed,Kept as design-audience research and possible later engagement target.

@@ -30,7 +30,7 @@ Munich scent test for a developing candle concept. No sales yet, just honest fee
 ```text
 Scene Candle Munich
 Scent test in development.
-Join: zhuanmala.github.io/scented_candle/
+Join: https://zhuanmala.github.io/scented_candle/
 ```
 
 - Website-link note: Instagram Web reported that editing profile links is only available on mobile, so the waitlist URL is currently in bio text rather than the Website field.
@@ -38,6 +38,7 @@ Join: zhuanmala.github.io/scented_candle/
 - Public post URL: https://www.instagram.com/p/DZ1IzfSkmsh/
 - Caption verification: public post contains the Munich blind scent-test caption, `No launch yet. No sales yet.`, `Comment TEST`, and `waitlist`.
 - Banned-claim scan: verified public post text does not contain `non-toxic`, `nontoxic`, `chemical-free`, `therapeutic`, `sleep improving`, `EU-compliant`, `sustainable`, `handmade`, or `ready for sale`.
+- Organic warm-up: followed `@munich_expats` and `@friendingaround`; profile verification showed `2 following`.
 
 Published caption:
 

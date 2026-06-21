@@ -1,0 +1,4 @@
+date,time_local,channel,url,post_age_observed,views,likes,comments,shares,followers,profile_posts,waitlist_signups_observed,notes
+2026-06-21,10:25,Instagram,https://www.instagram.com/p/DZ1IzfSkmsh/,23 minutes,,0,0,,0,1,,Public meta/body showed 0 likes and 0 comments; profile showed 0 followers and 1 post.
+2026-06-21,10:25,TikTok,https://www.tiktok.com/@jianhou5/video/7653545450997304593/,7 hours,,0,0,0,,,,Public page showed 0 / 0 / 0 plus Share on the action row; exact metric mapping is platform-dependent, so treat as visible public action counts only.
+2026-06-21,10:25,Waitlist,https://zhuanmala.github.io/scented_candle/,,,,,,,,,,No server-side analytics available from GitHub Pages; signups must be counted from FormSubmit/email receipts.
