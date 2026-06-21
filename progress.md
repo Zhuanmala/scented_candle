@@ -74,6 +74,7 @@
 - Found the real Alibaba buyer-side chat interface at `https://onetalk.alibaba.com/message/weblitePWA.htm#/`; the previous `message.alibaba.com` route is a seller/business dashboard and should not be used for buyer supplier replies.
 - Checked Alibaba supplier replies and created `ops/supplier/supplier_reply_log.csv`.
 - Supplier reply summary: Changchun Ai Kun sent a PDF catalog and quoted USD 50 per sample; Hebei Aoyin claims EU exports/CLP support but MOQ 500; Suzhou M&scent claims REACH/CLP/EN15493/EN15494 support but later clarified custom glass MOQ 500 and ceramic MOQ 2000; Suzhou Enjoy MOQ 500; Shijiazhuang Fengyuan and Hubei Joylife will check with managers; Shanghai Wellness will follow up Monday; Guangxi Wanjing and Baoding Be-Ladies show product-card-only threads with no substantive text reply found.
+- Reviewed GitHub Issue #6 dried-flower candle and packaging photos. Prepared `ops/marketing/dried_flower_sample_campaign.md` for an Instagram/TikTok sample-preference campaign comparing Roman Chamomile and Golden Coast.
 
 ## Next
 
