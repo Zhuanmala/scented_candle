@@ -71,6 +71,9 @@
 - Reviewed `@munich_creative_business_week`; no follow action completed, so it remains a design-audience research and later engagement target.
 - Checked Alibaba message / TM manager entry points. Current visible dashboard shows 0 unread business opportunities and no visible supplier reply data, but the page appears to be a seller/business dashboard, so supplier reply status remains uncertain rather than confirmed no-reply.
 - Corrected mojibake in German marketing/recruitment copy files: `ops/marketing/munich_launch_posts.md` and `ops/marketing/tester_recruitment_scripts.md`.
+- Found the real Alibaba buyer-side chat interface at `https://onetalk.alibaba.com/message/weblitePWA.htm#/`; the previous `message.alibaba.com` route is a seller/business dashboard and should not be used for buyer supplier replies.
+- Checked Alibaba supplier replies and created `ops/supplier/supplier_reply_log.csv`.
+- Supplier reply summary: Changchun Ai Kun sent a PDF catalog and quoted USD 50 per sample; Hebei Aoyin claims EU exports/CLP support but MOQ 500; Suzhou M&scent claims REACH/CLP/EN15493/EN15494 support but later clarified custom glass MOQ 500 and ceramic MOQ 2000; Suzhou Enjoy MOQ 500; Shijiazhuang Fengyuan and Hubei Joylife will check with managers; Shanghai Wellness will follow up Monday; Guangxi Wanjing and Baoding Be-Ladies show product-card-only threads with no substantive text reply found.
 
 ## Next
 
