@@ -75,6 +75,7 @@
 - Checked Alibaba supplier replies and created `ops/supplier/supplier_reply_log.csv`.
 - Supplier reply summary: Changchun Ai Kun sent a PDF catalog and quoted USD 50 per sample; Hebei Aoyin claims EU exports/CLP support but MOQ 500; Suzhou M&scent claims REACH/CLP/EN15493/EN15494 support but later clarified custom glass MOQ 500 and ceramic MOQ 2000; Suzhou Enjoy MOQ 500; Shijiazhuang Fengyuan and Hubei Joylife will check with managers; Shanghai Wellness will follow up Monday; Guangxi Wanjing and Baoding Be-Ladies show product-card-only threads with no substantive text reply found.
 - Reviewed GitHub Issue #6 dried-flower candle and packaging photos. Prepared `ops/marketing/dried_flower_sample_campaign.md` for an Instagram/TikTok sample-preference campaign comparing Roman Chamomile and Golden Coast.
+- User provided Shanghai-to-Munich student-carry benchmark of EUR 15/kg. Added this as an assumption to `ops/finance/budget_tracker.csv`, `ops/finance/unit_economics_model.csv`, and the dried-flower sample campaign notes. This supports small physical preference testing but does not replace commercial import/compliance requirements.
 
 ## Next
 

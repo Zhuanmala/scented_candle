@@ -3,3 +3,7 @@ conservative_50_units,50,8,4,2,3,17,29,12,41.4,Too tight unless strong demand
 target_100_units,100,6,3,1.5,2,12.5,34,21.5,63.2,Potentially viable for DTC test
 target_150_units,150,5.5,2.5,1.5,1.5,11,34,23,67.6,Better if supplier quality holds
 premium_150_units,150,7,3,2,2,14,39,25,64.1,Works only if packaging and scent justify premium
+student_carry_sample_100g,1,unknown,1.5,0,0,unknown,0,0,0,"Shanghai to Munich carry assumption EUR 15/kg; 100g sample transport equals EUR 1.50. Use only for preference testing."
+student_carry_sample_200g,1,unknown,3,0,0,unknown,0,0,0,"Shanghai to Munich carry assumption EUR 15/kg; 200g sample transport equals EUR 3.00. Use only for preference testing."
+student_carry_sample_500g,1,unknown,7.5,0,0,unknown,0,0,0,"Shanghai to Munich carry assumption EUR 15/kg; 500g sample transport equals EUR 7.50. Use only for preference testing."
+student_carry_sample_1kg,1,unknown,15,0,0,unknown,0,0,0,"Shanghai to Munich carry assumption EUR 15/kg; 1kg transport equals EUR 15.00. Use only for preference testing."

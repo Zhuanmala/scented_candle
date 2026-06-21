@@ -7,6 +7,13 @@ Purpose: test whether the dried-flower candle visual and two scent directions ca
 
 This is a sample preference campaign, not a product listing campaign.
 
+Logistics assumption for physical Munich preference tests:
+
+- User-provided Shanghai to Munich student-carry benchmark: EUR 15/kg.
+- Approximate carry cost: 100g = EUR 1.50, 200g = EUR 3.00, 500g = EUR 7.50, 1kg = EUR 15.00.
+- This makes a few physical samples cost-effective for scent/packaging feedback.
+- This does not replace compliant commercial import, product documentation, or the Alibaba EU-document supplier path.
+
 Public content should ask people to choose between two sample directions:
 
 - Roman Chamomile: quieter, soft, bedroom/evening mood.
