@@ -22,9 +22,36 @@ Munich scent test for a developing candle concept. No sales yet, just honest fee
 
 ### Instagram
 
-- Status: appeal submitted, pending Instagram review.
-- Observed blocker: Instagram redirected to a human verification / image captcha page, then showed that an appeal was submitted on 2026-06-20 and review is pending.
-- Required action: wait for Instagram review outcome before attempting posting again.
+- Account observed: `@houjian07122026`.
+- Display name observed: `SCENA`.
+- Status: usable after user confirmed review/access cleared.
+- Profile bio updated to:
+
+```text
+Scene Candle Munich
+Scent test in development.
+Join: zhuanmala.github.io/scented_candle/
+```
+
+- Website-link note: Instagram Web reported that editing profile links is only available on mobile, so the waitlist URL is currently in bio text rather than the Website field.
+- Post asset: `site/assets/hero-candle-concept-instagram.jpg`, converted from the existing concept hero image for Instagram upload.
+- Public post URL: https://www.instagram.com/p/DZ1IzfSkmsh/
+- Caption verification: public post contains the Munich blind scent-test caption, `No launch yet. No sales yet.`, `Comment TEST`, and `waitlist`.
+- Banned-claim scan: verified public post text does not contain `non-toxic`, `nontoxic`, `chemical-free`, `therapeutic`, `sleep improving`, `EU-compliant`, `sustainable`, `handmade`, or `ready for sale`.
+
+Published caption:
+
+```text
+Small scenes, made of scent and light.
+
+I am developing a small scented candle concept in Munich, inspired by theatre, textiles, and interior spaces.
+
+No launch yet. No sales yet. The next step is a blind scent test: three scent directions, no brand story first, honest feedback on scent, packaging, and price.
+
+In or near Munich? Comment TEST or join the waitlist through the profile bio.
+
+#munich #muenchen #munichlife #interiordesign #homedecor #scentedcandles #designmunich
+```
 
 ### Waitlist URL
 

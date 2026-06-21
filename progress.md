@@ -59,10 +59,14 @@
 - Verified the corrected TikTok public page contains the intended caption and waitlist URL, and does not contain the old internal file-name caption.
 - Deleted the old incorrect TikTok post `https://www.tiktok.com/@jianhou5/video/7653538649350393104`; TikTok Studio list now shows only the corrected public post.
 - Updated TikTok profile bio to `Munich scent test. Link in latest post. Comment TEST.` after TikTok did not persist a direct URL bio.
+- User confirmed Instagram is available after review.
+- Updated Instagram profile bio for `@houjian07122026` to include the live waitlist URL text: `zhuanmala.github.io/scented_candle/`. Instagram Web reported that website-link editing is only available on mobile, so the URL is in bio text rather than the Website field.
+- Created Instagram-ready JPEG asset `site/assets/hero-candle-concept-instagram.jpg` from the existing hero concept image.
+- Published and verified the first Instagram tester-recruitment post: `https://www.instagram.com/p/DZ1IzfSkmsh/`.
+- Verified the Instagram post contains the Munich blind scent-test caption, `No launch yet. No sales yet.`, `Comment TEST`, and `waitlist`, with no banned claim terms from the project safety scan.
 
 ## Next
 
-- Wait for Instagram review outcome before attempting Instagram posting again.
-- Monitor TikTok views, comments, and waitlist signups from the corrected post.
-- Add the live URL to Instagram bio and launch the first Instagram post when review clears.
+- Monitor TikTok and Instagram views, comments, and waitlist signups from the corrected public posts.
+- If Instagram mobile access is available, add the live URL to the Website field because Instagram Web only allowed bio-text URL editing.
 - Track supplier replies and reject suppliers that cannot provide credible EU/Germany documentation examples.
